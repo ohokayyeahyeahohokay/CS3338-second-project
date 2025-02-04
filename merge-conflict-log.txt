@@ -1,0 +1,83 @@
+commit cb7a39e296d6b99621e1b807215965e6598a93c7
+Merge: 9c9c6d4 cf33046
+Author: ohokayyeahyeahohokay <jose11holguin@yahoo.com>
+Date:   Mon Feb 3 16:36:20 2025 -0800
+
+    stayed with Edit-Html line change
+
+commit cf3304641210dc243b35847269f9bdfc9eb70c7e
+Author: ohokayyeahyeahohokay <jose11holguin@yahoo.com>
+Date:   Mon Feb 3 16:26:39 2025 -0800
+
+    added favorite game line
+
+commit 9c9c6d433b8312f364f8463697e4b32f763f5c08
+Author: Miyun2003 <awun@calstatela.edu>
+Date:   Mon Feb 3 16:21:24 2025 -0800
+
+    Added my favorite game
+
+commit 3b8c25da7d3c7f1ebe22d61569a768815cfd4bb0
+Author: ohokayyeahyeahohokay <jose11holguin@yahoo.com>
+Date:   Fri Jan 31 11:43:27 2025 -0800
+
+    committing repolocation
+
+commit 2f8208d1046eae09cf32395f8986364ae211ceb0
+Author: ohokayyeahyeahohokay <jose11holguin@yahoo.com>
+Date:   Fri Jan 31 11:42:58 2025 -0800
+
+    committing git_log
+
+commit 6dd1637036f8b0700ee4914c55c7066561ada0a2
+Merge: 1c9e102 1a5a3f1
+Author: ohokayyeahyeahohokay <jose11holguin@yahoo.com>
+Date:   Fri Jan 31 11:37:53 2025 -0800
+
+    adding both changes
+
+commit 1a5a3f1ef00a92f1782bfd910b4df4325fda4f30
+Author: ohokayyeahyeahohokay <jose11holguin@yahoo.com>
+Date:   Fri Jan 31 11:25:24 2025 -0800
+
+    adding div for favorite movie
+
+commit 1c9e1026314b34252d9e707122b17fc004e2f2b9
+Author: ohokayyeahyeahohokay <jose11holguin@yahoo.com>
+Date:   Fri Jan 31 11:23:26 2025 -0800
+
+    adding div/ doing merge conflict
+
+commit 2f632073d912c837fafa959596335f36f6c4346f
+Merge: 9b9961d cdcd09b
+Author: ohokayyeahyeahohokay <jose11holguin@yahoo.com>
+Date:   Fri Jan 31 11:15:26 2025 -0800
+
+    Merge branch 'main' of https://github.com/ohokayyeahyeahohokay/CS3338-second-project
+
+commit 9b9961d26d4ce1944b9030566a2b7cdfb1e494b2
+Author: ohokayyeahyeahohokay <jose11holguin@yahoo.com>
+Date:   Fri Jan 31 11:03:02 2025 -0800
+
+    adding README.md to main
+
+commit cdcd09bee97c7628abdd2efa9f3aa8de16c2051a
+Merge: 1d2bfc0 223e55d
+Author: ohokayyeahyeahohokay <143287185+ohokayyeahyeahohokay@users.noreply.github.com>
+Date:   Fri Jan 31 10:51:01 2025 -0800
+
+    Merge pull request #1 from ohokayyeahyeahohokay/info-fill
+    
+    Filled in Blanks
+
+commit 223e55d3351ed5109663091dbfb76c30c65dabaa
+Author: ohokayyeahyeahohokay <jose11holguin@yahoo.com>
+Date:   Fri Jan 31 10:43:17 2025 -0800
+
+    added name and hobby
+
+commit 1d2bfc0c7ca5c63bb12bd6add9fed720c852ae70
+Author: JValenzuela1 <74166160+JValenzuela1@users.noreply.github.com>
+Date:   Wed Aug 28 01:13:39 2024 -0700
+
+    Added index.html
